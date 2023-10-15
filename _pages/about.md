@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 
 
@@ -18,12 +18,12 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm currently working as a **Senior Analyst** in **Deutsche Bank**. For past one year, I’ve been working on **OCR** and **Document Understanding** to streamline document processing inside the organization.
 
-I'm an aspiring **PhD candidate**. My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. 
-
-More precisely, my focus lies in exploring techniques for Document Understanding that enable the extraction of structured data from unstructured multimodal documents. The ultimate objective is to is to provide the data for data-driven machine learning, including the advancement of LLMs.
+I'm an aspiring **PhD candidate**. My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. You can find more details in my [CV](/cv).
 
 
-I graduated from SPIT Mumbai with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research intern**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
+I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research intern**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
+
+I enjoy learning the fundamental workings of things and attempting to build them from scratch. Additionally, I have a passion for solving real-world problems; feel free to check out my previous [projects](/projects).
 
 <!-- I graduated from SPIT Mumbai with a B.Tech degree in **Computer Engineering**. During my undergraduate, I worked on Cross Event Detection from social media data under guidance of **Prof. Pramod Bide**, published three [research papers](/publications/) encompassing NLP, Federated Learning, Explainable AI, Computer Vision and Edge Computing. Also won the **Best Graduation Project Award**. -->
 
