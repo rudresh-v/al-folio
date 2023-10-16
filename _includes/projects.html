@@ -2,22 +2,26 @@
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
-  <a href="{{ project.redirect }}">
-    {%- else -%}
+    <a href="{{ project.redirect }}">
+  {%- else if project.pdf -%}
+    <a href="{{ project.pdf | prepend: '/assets/pdf/' | relative_url }}">
+  {%- else -%}
     <a href="{{ project.url | relative_url }}">
-      {%- endif %}
+  {%- endif %}
       <div class="card hoverable">
         {%- if project.img %}
         {%- include figure.html
           path=project.img
-          alt="project thumbnail" -%}
+          alt="project thumbnail"
+          height=project.height 
+          width=project.width -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <h2 class="card-title">{{ project.title }}</h2>
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
-            <div class="github-icon">
+            <div class="github-icon" style="padding: 0.2rem;">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
                 <a href="{{ project.github }}"><i class="fab fa-github gh-icon"></i></a>
               </div>
@@ -27,6 +31,13 @@
                 <span id="{{ project.github_stars }}-stars"></span>
               </span>
               {%- endif %}
+            </div>
+            {%- endif %}
+            {%- if project.attachment -%}
+            <div class="attachment-icon" style="padding: 0.2rem;">
+              <div class="icon" data-toggle="tooltip" title="Attachment">
+                <a href="{{ project.attachment | relative_url }}"><i class="fa-solid fa-paperclip"></i></a>
+              </div>
             </div>
             {%- endif %}
           </div>
