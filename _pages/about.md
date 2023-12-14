@@ -21,9 +21,9 @@ Hi! I'm currently working as a **Senior Analyst** in **Deutsche Bank**. For past
 My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. I will be applying for PhD programs this cycle. If you think I will be a good fit, please reach out to me. You can find more details in my [CV](/cv).
 
 
-I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research intern**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
+I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research assistant**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
 
-I enjoy learning the fundamental workings of things and attempting to build them from scratch. Additionally, I have a passion for solving real-world problems; feel free to check out my previous [projects](/projects).
+I enjoy learning about the fundamental workings of algorithms & systems, and attempting to build them from scratch. Additionally, I have a passion for solving real-world problems; feel free to check out my previous [projects](/projects).
 
 <!-- I graduated from SPIT Mumbai with a B.Tech degree in **Computer Engineering**. During my undergraduate, I worked on Cross Event Detection from social media data under guidance of **Prof. Pramod Bide**, published three [research papers](/publications/) encompassing NLP, Federated Learning, Explainable AI, Computer Vision and Edge Computing. Also won the **Best Graduation Project Award**. -->
 
