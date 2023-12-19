@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I'm currently working as a **Senior Analyst** in **Deutsche Bank**. For past one year, I’ve been working on **OCR** and **Document Understanding** to streamline document processing inside the organization.
 
-My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. I will be applying for PhD programs this cycle. If you think I will be a good fit, please reach out to me. You can find more details in my [CV](/cv).
+My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. You can find more details in my [CV](/cv).
 
 
 I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research assistant**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
