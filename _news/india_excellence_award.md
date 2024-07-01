@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won Deutsche Bank India Excellence Award
+Won Deutsche Bank India Excellence Award :trophy:

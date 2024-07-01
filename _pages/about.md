@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: 
+subtitle: Incoming <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Currently <strong>TDI</strong> <a href="https://db.com/">@Deutsche Bank</a>
 
 profile:
   align: right

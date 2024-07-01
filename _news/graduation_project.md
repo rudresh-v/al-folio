@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won Best Graduation Project Exhibition Award for project FedSpam
+Won Best Graduation Project Exhibition Award for project FedSpam 🥇
