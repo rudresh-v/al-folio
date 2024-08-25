@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
+subtitle: <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
 
 profile:
   align: right
