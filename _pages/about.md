@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Incoming <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Currently <strong>TDI</strong> <a href="https://db.com/">@Deutsche Bank</a>
+subtitle: Incoming <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
 
 profile:
   align: right
@@ -16,10 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm currently working as a **Senior Analyst** in **Deutsche Bank**. For past one year, I’ve been working on **OCR** and **Document Understanding** to streamline document processing inside the organization.
+Hi! I'm currently a Master's student in Computer Science & Engineering (CSE) at **UC San Diego** and an aspiring PhD student.
 
 My research interests primarily focus on **Document Understanding**, **Multimodal Document Processing**, and **Document Analysis utilizing Generative AI**. You can find more details in my [CV](/cv).
 
+Previously, I worked as a **Senior Analyst** at **Deutsche Bank**, where I focused on **OCR** and **Document Understanding** to streamline document processing within the organization.
 
 I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research assistant**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
 
