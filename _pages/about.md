@@ -22,7 +22,7 @@ I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Co
 
 My research sits at the intersection of **Discrete Differential Geometry, geometry processing, and physics-based simulation**. Right now I’m focused on:
 
-* **Point-vortex dynamics on genus-\(g\) surfaces** &mdash; building mesh-based formulations that match analytical solutions on the plane, then extending to higher-genus shapes.  
+* **Point-vortex dynamics on genus-\(g\) surfaces** &mdash; using discrete differential geometry operators to replicate smooth-theory vortex behavior on meshes and then generalizing the formulation to higher-genus surfaces.  
 * **Geometric & topological algorithms for fluid flow** &mdash; harmonic decomposition, pressure projection, and efficient Poisson solvers that respect manifold structure.  
 * **Physically based graphics** &mdash; leveraging the same DDG foundations for robust rendering and visualization.
 
