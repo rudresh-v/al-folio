@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/) on _point-vortex dynamics on curved surfaces_. 🍩
+I began working with Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/) on _point-vortex dynamics on closed surfaces_. 🍩

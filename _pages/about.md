@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I’m a Master’s student in **Computer Science & Engineering** (CSE) at **UC San Diego** and an aspiring PhD researcher.
 
-I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**, where I study point-vortex dynamics on curved surfaces using discrete differential-geometry techniques.
+I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**, where I study point-vortex dynamics on closed surfaces using discrete differential-geometry techniques.
 
 My research sits at the intersection of **Discrete Differential Geometry, geometry processing, and physics-based simulation**. Right now I’m focused on:
 
