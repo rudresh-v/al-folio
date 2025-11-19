@@ -519,7 +519,7 @@ permalink: /personal/happy-bday-love/
       <div class="password-card">
         <h2>dear diary</h2>
         <p>
-          Every page of us is precious. Whisper the little password we share and
+          Whisper the little password we share and
           I will open up to you.
         </p>
         <div class="password-input">
@@ -532,7 +532,7 @@ permalink: /personal/happy-bday-love/
           />
           <button id="unlockButton" aria-label="Unlock diary">Open</button>
         </div>
-        <small id="passwordHint">It is tiny, sweet, and only ours.</small>
+        <small id="passwordHint">She is cute, fluffy, and my best investment till now! </small>
       </div>
     </div>
 
@@ -546,7 +546,7 @@ permalink: /personal/happy-bday-love/
           </div>
           <div class="page">
             <div class="video-wrapper">
-              <p class="video-title">Press play and feel me hugging you.</p>
+              <p class="video-title"></p>
               <video
                 id="loveVideo"
                 playsinline
@@ -573,8 +573,7 @@ permalink: /personal/happy-bday-love/
                 <button id="muteToggle" aria-label="Mute or unmute">Mute</button>
               </div>
               <p class="note">
-                Close your eyes, breathe, and let these seconds remind you how loved you
-                are.
+                Relax, take a deep breath, and let these seconds remind you that I admire you for all that you are, and that you should be proud of yourself for everything you’ve accomplished.
               </p>
             </div>
           </div>
@@ -582,12 +581,12 @@ permalink: /personal/happy-bday-love/
       </div>
     </main>
 
-    <div class="birthday-message">Happy birthday my love</div>
+    <div class="birthday-message">Happy birthday my love ❤️</div>
     <canvas id="confettiCanvas" class="confetti-canvas" aria-hidden="true"></canvas>
 
     <script>
       (() => {
-        const PASSWORD = "sunshine"; // Change to any word you both know.
+        const PASSWORD = "hedwig"; // Change to any word you both know.
         const VIDEO_URL = "https://rudresh.net/assets/video/abhi_tu_meri_bhi_kahani.mp4"; // Replace with your hosted video link if needed.
 
         const overlay = document.getElementById("passwordOverlay");
