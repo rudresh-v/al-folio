@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>MSCSE</strong> Student <a href="https://ucsd.edu/">@UCSD</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
+subtitle: <strong>MSCS</strong> Student <a href="https://ucsd.edu/">@UC San Diego</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
 
 profile:
   align: right
@@ -18,13 +18,19 @@ social: true  # includes social icons at the bottom of the page
 
 Hi! I’m a Master’s student in **Computer Science & Engineering** (CSE) at **UC San Diego** and an aspiring PhD researcher.
 
-I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**, where I study point-vortex dynamics on closed surfaces using discrete differential-geometry techniques.
+I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**, where I study point-vortex dynamics on closed surfaces (a [short report](https://rudresh.net/assets/pdf/PointVortexDynamics_Short.pdf)).
 
-My research sits at the intersection of **Discrete Differential Geometry, geometry processing, and physics-based simulation**. Right now I’m focused on:
+My research sits at the intersection of **[Discrete Differential Geometry](https://en.wikipedia.org/wiki/Discrete_differential_geometry), [Geometric analysis](https://en.wikipedia.org/wiki/Geometric_analysis), and physics-based simulation**. Right now I’m focused on:
 
 * **Point-vortex dynamics on genus-\(g\) surfaces** &mdash; using discrete differential geometry operators to replicate smooth-theory vortex behavior on meshes and then generalizing the formulation to higher-genus surfaces.  
 * **Geometric & topological algorithms for fluid flow** &mdash; harmonic decomposition, pressure projection, and efficient Poisson solvers that respect manifold structure.  
-* **Physically based graphics** &mdash; leveraging the same DDG foundations for robust rendering and visualization.
+* **Physically based graphics** &mdash; leveraging the same DDG foundations for robust rendering and visualization.\
+
+ Right now I’m focused on:
+* **Structure-preserving solvers** — numerical methods for fluids and related systems that respect key physical laws instead of breaking them.
+* **Robust discretization** — turning analytic formulations into mesh-based algorithms that preserve important invariants over time and across resolutions.
+* **Fast prototyping tools** — building [Rheidos](https://github.com/RudreshVeerkhare/Rheidos), a framework for quickly experimenting with new simulation and geometryprocessing ideas
+* **Learning-augmented simulation** — recently exploring principled ways to use machine learning in physics solvers, rather than as a black-box approximator.
 
 ---
 
