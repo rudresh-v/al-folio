@@ -22,11 +22,6 @@ I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Co
 
 My research sits at the intersection of **[Discrete Differential Geometry](https://en.wikipedia.org/wiki/Discrete_differential_geometry), [Geometric analysis](https://en.wikipedia.org/wiki/Geometric_analysis), and physics-based simulation**. Right now I’m focused on:
 
-* **Point-vortex dynamics on genus-\(g\) surfaces** &mdash; using discrete differential geometry operators to replicate smooth-theory vortex behavior on meshes and then generalizing the formulation to higher-genus surfaces.  
-* **Geometric & topological algorithms for fluid flow** &mdash; harmonic decomposition, pressure projection, and efficient Poisson solvers that respect manifold structure.  
-* **Physically based graphics** &mdash; leveraging the same DDG foundations for robust rendering and visualization.\
-
- Right now I’m focused on:
 * **Structure-preserving solvers** — numerical methods for fluids and related systems that respect key physical laws instead of breaking them.
 * **Robust discretization** — turning analytic formulations into mesh-based algorithms that preserve important invariants over time and across resolutions.
 * **Fast prototyping tools** — building [Rheidos](https://github.com/RudreshVeerkhare/Rheidos), a framework for quickly experimenting with new simulation and geometryprocessing ideas
