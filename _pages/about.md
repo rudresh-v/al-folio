@@ -6,7 +6,7 @@ subtitle: <strong>CS PhD</strong> Student <a href="https://ucsd.edu/">@UC San Di
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: true # crops the image to make it circular
   address: 
 
