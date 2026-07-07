@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <strong>MSCS</strong> Student <a href="https://ucsd.edu/">@UC San Diego</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
+subtitle: <strong>CS PhD</strong> Student <a href="https://ucsd.edu/">@UC San Diego</a> | Former <strong>Senior Analyst</strong> <a href="https://db.com/">@Deutsche Bank</a>
 
 profile:
   align: right
@@ -16,9 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi! I’m a Master’s student in **Computer Science & Engineering** (CSE) at **UC San Diego** and an aspiring PhD researcher.
-
-I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**.
+Hi! I’m a PhD student in **Computer Science & Engineering** (CSE) at **UC San Diego**. I’m currently working in UCSD’s **Computer Graphics Lab (Center of Visual Computing)** with **Prof. [Albert Chern](https://cseweb.ucsd.edu/~alchern/)**.
 
 My research sits at the intersection of **[Discrete Differential Geometry](https://en.wikipedia.org/wiki/Discrete_differential_geometry), [Geometric analysis](https://en.wikipedia.org/wiki/Geometric_analysis), and physics-based simulation**. Right now I’m focused on:
 
