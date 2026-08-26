@@ -30,7 +30,7 @@ My research sits at the intersection of **[Discrete Differential Geometry](https
 
 Previously, I worked as a **Senior Analyst** at **Deutsche Bank**, where I focused on **OCR** and **Document Understanding** to streamline document processing within the organization.
 
-I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research assistant**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published three [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
+I graduated from [SPIT Mumbai](https://spit.ac.in) with a **B.Tech** degree in **Computer Engineering**. During my undergraduate studies, I worked as a **research assistant**, conducting research on Cross Event Detection from social media data under the guidance of **Prof. Pramod Bide**. In addition to this, I have published [research papers](/publications/) covering various topics, including NLP, Federated Learning, Explainable AI, Computer Vision, and Edge Computing. I was also honored with the **Best Graduation Project Award**
 
 I enjoy learning about the fundamental workings of algorithms & systems, and attempting to build them from scratch. Additionally, I have a passion for solving real-world problems; feel free to check out my previous [projects](/projects).
 
